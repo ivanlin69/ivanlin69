@@ -7,7 +7,7 @@ In 2022, I began my programming journey in graduate school🎓 and quickly becam
 ### ⚓ **Sea Battle Solo**
 A classic single-player Sea Battle game implemented in C++. Features include customizable grid sizes, variable ship numbers, random ship placement, and detailed gameplay statistics.
 
-The game supports multiple C++ standards (Pre-C++11, C++11, and C++17), the game leverages advanced design principles such as design patterns and polymorphism. The modular and plug-and-play architecture ensures easy customization and extension, enhancing replayability and challenge.
+It supports multiple standards(Pre-C++11, C++11, and C++17), the game leverages advanced design principles such as design patterns and polymorphism. The modular and plug-and-play architecture ensures easy customization and extension.
 
 
 ### 🤖 **Sudoku Solver**
