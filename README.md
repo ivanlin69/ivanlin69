@@ -5,13 +5,13 @@ In 2022, I began my programming journey in graduate school🎓 and quickly becam
 ## My work
 
 ### ⚓ **Sea Battle Solo**
-A classic single-player Sea Battle game implemented in C++. This project includes both standard and customizable game modes, designed for command-line play. Features include customizable grid sizes, variable ship numbers, random ship placement, and detailed gameplay statistics.
+A classic single-player Sea Battle game implemented in C++. Features include customizable grid sizes, variable ship numbers, random ship placement, and detailed gameplay statistics.
 
-The game supports multiple C++ standards (Pre-C++11, C++11, and C++17), the game leverages advanced design principles such as design patterns and polymorphism. Its modular and plug-and-play architecture ensures easy customization and extension, enhancing replayability and challenge.
+The game supports multiple C++ standards (Pre-C++11, C++11, and C++17), the game leverages advanced design principles such as design patterns and polymorphism. The modular and plug-and-play architecture ensures easy customization and extension, enhancing replayability and challenge.
 
 
 ### 🤖 **Sudoku Solver**
-A C++ application that automates solving Sudoku puzzles using advanced algorithmic techniques. The solver employs the AC-3 algorithm for arc consistency and a backtracking method for complex/hard puzzles, enhanced by the Minimum Remaining Values heuristic.
+A C++ application that automates solving Sudoku puzzles using algorithmic techniques such as the AC-3 algorithm for arc consistency and a backtracking method for complex/hard puzzles, enhanced by the Minimum Remaining Values heuristic.
 
 The solver showcases the realization and application of data structures and algorithms, achieving high efficiency with most puzzles solved within 1 second.
 
