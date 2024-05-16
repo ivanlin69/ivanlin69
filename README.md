@@ -1,17 +1,17 @@
 ## Hi, my name is Ivan Lin 🦌
 
-In 2022, I began my programming journey in graduate school🎓 and quickly became captivated by the world of coding. Although I found it challenging, the process was incredibly rewarding and brought me a lot of joy. I started by learning C, Java, and Python, but my passion truly lies with C++. I appreciate C++ for its unique blend of low-level control and powerful capabilities, which makes it a compelling language for me to work with.
+In 2022, I began my programming journey in graduate school🎓 and quickly became captivated by the world of coding. Although I found it challenging, the process was incredibly rewarding and brought me a lot of joy. I started by learning `C`, `Java`, and `Python`, but my passion truly lies with `C++`. I appreciate C++ for its unique blend of low-level control and powerful capabilities, which makes it a compelling language for me to work with.
 
 ## My work
 
 ### ⚓ **Sea Battle Solo**
-A classic single-player Sea Battle game implemented in C++. Features include customizable grid sizes, variable ship numbers, random ship placement, and detailed gameplay statistics.
+A classic single-player Sea Battle game implemented in `C++`. Features include customizable grid sizes, variable ship numbers, random ship placement, and detailed gameplay statistics.
 
 It supports multiple standards(Pre-C++11, C++11, and C++17), the game leverages advanced design principles such as design patterns and polymorphism. The modular and plug-and-play architecture ensures easy customization and extension.
 
 
 ### 🤖 **Sudoku Solver**
-A C++ application that automates solving Sudoku puzzles using algorithmic techniques such as the AC-3 algorithm for arc consistency and a backtracking method for complex/hard puzzles, enhanced by the Minimum Remaining Values heuristic.
+A `C++` application that automates solving Sudoku puzzles using algorithmic techniques such as the `AC-3` algorithm for arc consistency and a `backtracking` method for complex/hard puzzles, enhanced by the Minimum Remaining Values heuristic.
 
 The solver showcases the realization and application of data structures and algorithms, achieving high efficiency with most puzzles solved within 1 second.
 
