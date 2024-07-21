@@ -4,6 +4,11 @@ In 2022, I began my programming journey in graduate school🎓 and quickly becam
 
 ## My work
 
+### 📚 **Book Database System**
+A `C` program offers robust functionalities for managing book information, including adding, removing, updating, and listing books in a database. It ensures data integrity through meticulous creation and validation of the database file header.
+
+It leverags the getopt library to provide an intuitive Unix command line interface, allowing users to perform various operations seamlessly, and the modular design ensures maintainability and scalability.
+
 ### ⚓ **Sea Battle Solo**
 A classic single-player Sea Battle game implemented in `C++`. Features include customizable grid sizes, variable ship numbers, random ship placement, and detailed gameplay statistics.
 
