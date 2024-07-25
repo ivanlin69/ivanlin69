@@ -5,7 +5,7 @@ In 2022, I began my programming journey in graduate school🎓 and quickly becam
 ## My work
 
 ### 📚 **[Book Database System](https://github.com/ivanlin69/BookDBSystem)**
-A `C` program that supports network operations, allowing remote clients to interact with the server to manage book information in a database. It ensures data integrity through careful validation of the database header and employs a custom protocol for reliable communication.
+A `C` program that supports `network` operations, allowing remote clients to interact with the server to manage book information in a `database`. It ensures data integrity through careful validation of the database header and employs a custom protocol for reliable communication.
 
 It leverages the getopt library for an intuitive Unix command line interface, and utilizes multiplexing and finite state machines for effective state management.
 
