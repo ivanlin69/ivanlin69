@@ -4,18 +4,18 @@ In 2022, I began my programming journey in graduate school🎓 and quickly becam
 
 ## My work
 
-### 📚 **Book Database System**
+### 📚 **[Book Database System](https://github.com/ivanlin69/BookDBSystem)**
 A `C` program that supports network operations, allowing remote clients to interact with the server to manage book information in a database. It ensures data integrity through careful validation of the database header and employs a custom protocol for reliable communication.
 
 It leverages the getopt library for an intuitive Unix command line interface, and utilizes multiplexing and finite state machines for effective state management.
 
-### ⚓ **Sea Battle Solo**
+### ⚓ **[Sea Battle Solo](https://github.com/ivanlin69/SeaBattleSolo)**
 A classic single-player Sea Battle game implemented in `C++`. Features include customizable grid sizes, variable ship numbers, random ship placement, and detailed gameplay statistics.
 
 It's optimized for multiple standards(Pre-C++11, C++11, and C++17), the game leverages advanced design principles such as design patterns and polymorphism. The modular and plug-and-play architecture ensures easy customization and extension.
 
 
-### 🤖 **Sudoku Solver**
+### 🤖 **[Sudoku Solver](https://github.com/ivanlin69/SudokuSolver)**
 A `C++` application that automates solving Sudoku puzzles using algorithmic techniques such as the `AC-3` algorithm for arc consistency and a `backtracking` method for complex/hard puzzles, enhanced by the Minimum Remaining Values heuristic.
 
 The solver showcases the realization and application of data structures and algorithms, achieving high efficiency with most puzzles solved within 1 second.
