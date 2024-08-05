@@ -7,7 +7,7 @@ In 2022, I began my programming journey in graduate school🎓 and quickly becam
 ### 📚 **[Book Database System](https://github.com/ivanlin69/BookDBSystem)**
 A `C` program that supports `network` operations, allowing remote clients to interact with the server to manage book information in a `database`. It ensures data integrity through careful validation of the database header and employs a custom protocol for reliable communication.
 
-### 🛠️ **[Mini Shell with ARM](https://github.com/ivanlin69/miniShell)
+### 🛠️ **[Mini Shell with ARM](https://github.com/ivanlin69/miniShell)**
 A simple shell program for ARM 32-bit architecture, written in ARM assembly language and designed to work under a Linux environment. The shell reads user input, parses commands and arguments, forks child processes to execute commands using execve, and waits for the child processes to complete.
 
 ### ⚓ **[Sea Battle Solo](https://github.com/ivanlin69/SeaBattleSolo)**
