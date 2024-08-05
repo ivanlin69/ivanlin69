@@ -8,7 +8,7 @@ In 2022, I began my programming journey in graduate school🎓 and quickly becam
 A `C` program that supports `network` operations, allowing remote clients to interact with the server to manage book information in a `database`. It ensures data integrity through careful validation of the database header and employs a custom protocol for reliable communication.
 
 ### 🛠️ **[Mini Shell with ARM](https://github.com/ivanlin69/miniShell)**
-A simple shell program for ARM 32-bit architecture, written in ARM assembly language and designed to work under a Linux environment. The shell reads user input, parses commands and arguments, forks child processes to execute commands using execve, and waits for the child processes to complete.
+A simple shell program for `ARM` 32-bit architecture, written in `ARM assembly` and designed to work under a Linux environment. The shell reads user input, parses commands and arguments, forks child processes to execute commands using execve, and waits for the child processes to complete.
 
 ### ⚓ **[Sea Battle Solo](https://github.com/ivanlin69/SeaBattleSolo)**
 A classic single-player Sea Battle game implemented in `C++`. Features include customizable grid sizes, variable ship numbers, random ship placement, and detailed gameplay statistics. It's optimized for multiple standards(Pre-C++11, C++11, and C++17), the game leverages advanced design principles such as design patterns and polymorphism.
