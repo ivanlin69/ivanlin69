@@ -1,6 +1,6 @@
 ## Hi, my name is Ivan Lin 🦌
 
-In 2022, I began my programming journey in graduate school🎓 and quickly became captivated by the world of coding. Although I found it challenging, the process was incredibly rewarding and brought me a lot of joy. I started by learning `C`, `Java`, and `Python`, but my passion truly lies with `C` and `Assembly`, and I appreciate for their unique blend of low-level control and powerful capabilities.
+In 2022, I began my programming journey in graduate school🎓 and quickly became captivated by the world of coding. Although I found it challenging, the process was incredibly rewarding and brought me a lot of joy. I started by learning `C`, `Python`, `Java` and `C++`, but currently my passion lies with `C`, and I appreciate for its unique blend of low-level control and powerful capabilities.
 
 ## My work
 
